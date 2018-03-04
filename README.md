@@ -1,5 +1,5 @@
 
-*Deduplication of records to identify unique patients in dataset.*
+**Deduplication of records to identify unique patients in dataset.**
 
 Implemented using R programming language, on RStudio IDE.
 R Manuals:[Link](https://cran.r-project.org/manuals.html)
